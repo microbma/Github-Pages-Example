@@ -4,9 +4,8 @@ layout: default
 
 <body>
   <div class="index-wrapper">
+    <div id="particles-js" style="background-image: url('');background-size: 20%;background-repeat: no-repeat;background-position: 80% 20%;"></div>
     <div class="aside">
-      <div id="particles-js" style="background-image: url('');background-size: 20%;background-repeat: no-repeat;background-position: 80% 20%;">
-
       <div class="info-card">
         <h1>BeiYuu</h1>
         <a href="http://weibo.com/beiyuu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
